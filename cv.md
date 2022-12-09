@@ -21,7 +21,7 @@
 * Git/GitHub
 * Photoshop
 
-### Code Examples (https://Sophi-Sophi.github.io/rsschool-cv/cv)
+### [Code Examples](https://Sophi-Sophi.github.io/rsschool-cv/cv) 
 
 ### Education:
 
@@ -30,5 +30,5 @@
 
 ### Language
 
-* English - A2 (B1 in process…)
+* English - A2 (B1 in process….)
 
