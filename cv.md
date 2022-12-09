@@ -1,4 +1,4 @@
-# _Sophia Shaskova_
+# _Sophia Shashkova_
 
 ### My Contact:
 * E-mail: _sophitkachenko@gmail.com_
@@ -9,7 +9,7 @@
 
 > I am 28 years old, I work as a secretarial assistant. I think that my real job will someday cease to bring joy. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
 
-    * My strengths:
+     My strengths:
     - discipline
     - focus on results
     - strive for self-development
@@ -21,4 +21,14 @@
 * Git/GitHub
 * Photoshop
 
+### Code Examples (https://Sophi-Sophi.github.io/rsschool-cv/cv)
+
+### Education:
+
+* The Academy of Public Administration
+    * Speciality - Public Administration and Law
+
+### Language
+
+* English - A2 (B1 in process…)
 
