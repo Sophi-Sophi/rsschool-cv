@@ -1,1 +1,1 @@
-https://Sophi-Sophi.github.io/rsschool-cv/cv
+https://Sophi-Sophi.github.io/rsschool-cv/
