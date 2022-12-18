@@ -17,11 +17,11 @@
 ### Skills:
 
 * HTML
-* CSS 
+* CSS
 * Git/GitHub
 * Photoshop
 
-### [Code Examples](https://Sophi-Sophi.github.io/rsschool-cv/cv) 
+### [Code Examples](https://Sophi-Sophi.github.io/rsschool-cv/cv)
 
 ### Education:
 
